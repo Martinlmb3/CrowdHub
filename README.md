@@ -8,7 +8,7 @@ The aim of this project is to create a modern, scalable crowdfunding platform wh
 
 ## Technologies Used
 
-- **Frontend:** Next.js (React)
+- **Frontend:** Next.js (React) Tanstack
 - **Backend:** Spring Boot (Java)
 - **Database:** H2 (for development, can be replaced in production)
 - **Styling:** Tailwind CSS
